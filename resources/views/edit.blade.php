@@ -52,9 +52,9 @@
                     <div class="form-group mb-3">
                         <label for="specialite">Specialite :</label>
                         <select name="specialite" class="form-select">
-                            <option value="A" {{$professeurs->specialite=="A" ?'selected' :''}}>A</option>
-                            <option value="B" {{$professeurs->specialite=="B" ?'selected' :''}}>B</option>
-                            <option value="C" {{$professeurs->specialite=="C" ?'selected' :''}}>C</option>
+                            <option value="2ITE" {{$professeurs->specialite=="2ITE" ?'selected' :''}}>2ITE</option>
+                            <option value="GEE" {{$professeurs->specialite=="GEE" ?'selected' :''}}>GEE</option>
+                            <option value="GI" {{$professeurs->specialite=="GI" ?'selected' :''}}>GI</option>
                         </select>
 
                     </div>

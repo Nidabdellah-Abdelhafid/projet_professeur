@@ -47,9 +47,9 @@
                     <div class="form-group mb-3">
                         <label for="specialite">Specialite :</label>
                         <select name="specialite" class="form-select">
-                            <option value="A">A</option>
-                            <option value="B">B</option>
-                            <option value="C">C</option>
+                            <option value="2ITE">2ITE</option>
+                            <option value="GEE">GEE</option>
+                            <option value="GI">GI</option>
                         </select>
                     </div>
                     
